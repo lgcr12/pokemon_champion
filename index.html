@@ -1,0 +1,229 @@
+import React, { useState } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { FiUploadCloud, FiZap, FiTarget, FiStar, FiChevronDown, FiAlertCircle } from 'react-icons/fi';
+
+// 1. 物理动效配置 (Spring Physics)
+const springTransition = { type: "spring", stiffness: 300, damping: 20 };
+const backdropBlur = "blur(12px) saturate(180%)";
+
+// 2. 主题配色
+const colors = {
+  bg: '#0a0a0c',
+  sidebar: '#141417',
+  card: '#1c1c21',
+  primary: '#8b5cf6', // 现代紫色
+  accent: '#a78bfa',
+  text: '#e4e4e7',
+  muted: '#a1a1aa',
+  border: '#27272a'
+};
+
+// 样式工具
+const s = (cls) => cls.split(' ').filter(Boolean).join(' ');
+
+export default function PkhexGeneratorPro() {
+  const [isUploading, setIsUploading] = useState(false);
+  const [ocrComplete, setOcrComplete] = useState(false);
+  const [isGenerating, setIsGenerating] = useState(false);
+
+  // 模拟交互流程
+  const handleUpload = () => {
+    setIsUploading(true);
+    setTimeout(() => {
+      setIsUploading(false);
+      setOcrComplete(true);
+    }, 1800);
+  };
+
+  const handleGenerate = () => {
+    setIsGenerating(true);
+    setTimeout(() => setIsGenerating(false), 2500);
+  };
+
+  // 动画变体 (Variants)
+  const containerVariants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: { staggerChildren: 0.1 }
+    }
+  };
+
+  const cardVariants = {
+    hidden: { y: 20, opacity: 0 },
+    visible: { y: 0, opacity: 1, transition: springTransition }
+  };
+
+  return (
+    <div style={{ backgroundColor: colors.bg, color: colors.text, fontFamlily: "'Inter', sans-serif" }} className="flex h-screen overflow-hidden">
+      
+      {/* --- 左侧边栏 (高级玻璃拟态) --- */}
+      <motion.aside 
+        initial={{ x: -300 }}
+        animate={{ x: 0 }}
+        transition={{ ...springTransition, delay: 0.1 }}
+        style={{ backgroundColor: colors.sidebar, borderRight: `1px solid ${colors.border}` }} 
+        className="w-80 p-8 flex flex-col gap-10 overflow-y-auto z-10"
+      >
+        <div className="flex items-center gap-3">
+          <FiZap className="text-2xl" style={{ color: colors.primary }} />
+          <h1 className="text-xl font-extrabold tracking-tighter">PKHeX <span style={{ opacity: 0.6 }}>Gen</span></h1>
+        </div>
+
+        {/* 1. 设置区域 */}
+        <div className="flex flex-col gap-6">
+          <h2 style={{ color: colors.muted }} className="text-xs uppercase tracking-widest font-semibold">界面与语言</h2>
+          <ControlGroup label="界面主题" value="深邃 · 暗夜 (默认)" />
+          <ControlGroup label="识别语言" value="简体中文 (CHS)" />
+          
+          <div className="flex flex-col gap-2">
+            <label style={{ color: colors.muted }} className="text-sm">卡片字体大小 (1.45)</label>
+            <input type="range" min="1" max="2" step="0.05" className="w-full h-1 accent-purple-600 bg-zinc-700 rounded-lg appearance-none cursor-pointer" />
+          </div>
+        </div>
+
+        {/* 2. 上传区域 (核心交互美化) */}
+        <div className="flex flex-col gap-6">
+          <h2 style={{ color: colors.muted }} className="text-xs uppercase tracking-widest font-semibold">配队截图</h2>
+          
+          <motion.div 
+            className="border-2 border-dashed rounded-3xl p-8 flex flex-col items-center justify-center gap-4 cursor-pointer text-center"
+            style={{ borderColor: colors.border }}
+            whileHover={{ borderColor: colors.primary, backgroundColor: 'rgba(139, 92, 246, 0.05)', scale: 1.02 }}
+            whileTap={{ scale: 0.98 }}
+            transition={springTransition}
+            onClick={handleUpload}
+          >
+            <AnimatePresence mode="wait">
+              {isUploading ? (
+                <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="flex flex-col items-center">
+                  <div className="w-8 h-8 border-4 border-purple-500 border-t-transparent rounded-full animate-spin"></div>
+                  <p className="mt-4 text-sm" style={{ color: colors.primary }}>正在上传并识别...</p>
+                </motion.div>
+              ) : (
+                <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="flex flex-col items-center">
+                  <FiUploadCloud className="text-4xl mb-2" style={{ color: colors.primary }} />
+                  <p className="text-sm">点击或拖拽截图</p>
+                  <p className="text-xs mt-1" style={{ color: colors.muted }}>支持 JPG, PNG (Max 5MB)</p>
+                  {ocrComplete && <p className="text-xs mt-3 px-3 py-1 bg-green-950 text-green-300 rounded-full">已识别: Zacian_Team.jpg ✕</p>}
+                </motion.div>
+              )}
+            </AnimatePresence>
+          </motion.div>
+        </div>
+
+        {/* 3. 主操作按钮 */}
+        <motion.button 
+          className="w-full flex items-center justify-center gap-2 py-4 rounded-xl font-bold text-lg shadow-lg relative overflow-hidden"
+          style={{ background: `linear-gradient(135deg, ${colors.primary} 0%, #a855f7 100%)` }}
+          whileHover={{ scale: 1.03, boxShadow: '0 10px 30px rgba(139, 92, 246, 0.3)' }}
+          whileTap={{ scale: 0.97 }}
+          transition={springTransition}
+          onClick={handleGenerate}
+        >
+          {isGenerating && <div className="absolute inset-0 bg-white/20 animate-pulse"></div>}
+          <FiTarget />
+          {isGenerating ? '正在生成数据...' : '开始生成队伍'}
+        </motion.button>
+        
+        {/* 底部历史 */}
+        <div style={{ marginTop: 'auto', borderTop: `1px solid ${colors.border}` }} className="pt-6">
+            <ControlGroup label="恢复历史记录" value="最近一次生成..." isDropdown />
+        </div>
+      </aside>
+
+      {/* --- 右侧主内容区 --- */}
+      <motion.main 
+        initial="hidden"
+        animate="visible"
+        variants={containerVariants}
+        className="flex-1 p-12 overflow-y-auto"
+      >
+        <header className="mb-12">
+          <motion.h1 variants={cardVariants} className="text-3xl font-bold tracking-tight">PKHeX 队伍生成器 Pro</motion.h1>
+          <motion.div variants={cardVariants} className="flex gap-3 mt-4">
+            <Tag icon={FiZap} label="智能 OCR 识别" />
+            <Tag icon={FiTarget} label="双语数据导出" />
+            <Tag icon={FiStar} label="本地永久历史" />
+          </motion.div>
+        </header>
+
+        {/* 内容卡片网络 */}
+        <div className="grid grid-cols-1 xl:grid-cols-2 gap-8">
+          
+          {/* 1. OCR 调试输出 (可折叠交互) */}
+          <motion.section variants={cardVariants} style={{ backgroundColor: colors.card, border: `1px solid ${colors.border}` }} className="rounded-3xl p-8">
+            <div className="flex justify-between items-center mb-6">
+                <h3 className="text-lg font-semibold flex items-center gap-2"><FiUploadCloud style={{color: colors.muted}}/>识别状态</h3>
+                <motion.button whileHover={{scale:1.1}} whileTap={{scale:0.9}} className="text-xl" style={{color: colors.muted}}><FiChevronDown/></motion.button>
+            </div>
+            <div className="font-mono text-sm p-5 rounded-xl bg-zinc-900/50 text-zinc-400 h-40 overflow-y-auto flex flex-col gap-1 border border-zinc-800">
+                <AnimatePresence>
+                {ocrComplete ? (
+                    <motion.div initial={{opacity:0}} animate={{opacity:1}} className="text-green-400">> [SUCCESS] 图像识别完成。</motion.div>
+                ) : (
+                    <div className="text-zinc-600">> 待上传截图...</div>
+                )}
+                {isGenerating && <motion.div initial={{opacity:0, x:-10}} animate={{opacity:1, x:0}} >> [INFO] 正在将 OCR 文本转换为 PKHeX 数据...</motion.div>}
+                </AnimatePresence>
+            </div>
+          </motion.section>
+
+          {/* 2. 生成结果 (高级状态反馈) */}
+          <motion.section variants={cardVariants} style={{ backgroundColor: colors.card, border: `1px solid ${colors.border}` }} className="rounded-3xl p-8 row-span-2 flex flex-col">
+            <h3 className="text-lg font-semibold mb-6 flex items-center gap-2"><FiStar style={{color: colors.accent}}/>生成结果数据</h3>
+            
+            <div className="flex-1 flex flex-col items-center justify-center text-center p-8 border inset border-dashed border-zinc-800 rounded-2xl bg-zinc-900/30">
+                <AnimatePresence mode="wait">
+                    {isGenerating ? (
+                        <motion.div key="gen" initial={{opacity:0}} animate={{opacity:1}} exit={{opacity:0}} className="flex flex-col items-center">
+                             <div className="w-12 h-12 border-4 border-t-transparent rounded-full animate-spin mb-6" style={{ borderColor: `${colors.primary} transparent transparent transparent` }}></div>
+                             <p style={{ color: colors.muted }}>正在计算最优化队伍配置...</p>
+                        </motion.div>
+                    ) : (
+                        <motion.div key="empty" initial={{opacity:0, scale: 0.9}} animate={{opacity:1, scale: 1}} exit={{opacity:0}} className="flex flex-col items-center">
+                            <FiAlertCircle className="text-5xl mb-5" style={{color: colors.border}}/>
+                            <p className="font-medium text-lg">等待数据生成</p>
+                            <p className="mt-2 text-sm max-w-xs" style={{ color: colors.muted }}>请在左侧边栏上传配队截图并点击“开始生成”，队伍的 PKHeX 文本将显示在这里。</p>
+                        </motion.div>
+                    )}
+                </AnimatePresence>
+            </div>
+          </motion.section>
+          
+          <motion.div variants={cardVariants} className="text-xs text-center p-10 rounded-2xl" style={{color: colors.border, border: `1px dashed ${colors.border}`}}>
+            此处可扩展放置：常见问题、版本说明或赞助链接。
+          </motion.div>
+
+        </div>
+      </main>
+
+    </div>
+  );
+}
+
+// 通用控件组组件
+function ControlGroup({ label, value, isDropdown }) {
+  return (
+    <div className="flex flex-col gap-2 relative">
+      <label style={{ color: colors.muted }} className="text-sm">{label}</label>
+      <div 
+        style={{ backgroundColor: colors.card, border: `1px solid ${colors.border}` }} 
+        className="p-4 rounded-xl text-sm flex justify-between items-center cursor-pointer group"
+      >
+        <span className="font-medium">{value}</span>
+        {isDropdown && <FiChevronDown className="group-hover:translate-y-0.5 transition-transform" />}
+      </div>
+    </div>
+  );
+}
+
+// 标签组件
+function Tag({ icon: Icon, label }) {
+  return (
+    <div style={{ backgroundColor: colors.sidebar, border: `1px solid ${colors.border}` }} className="flex items-center gap-2 px-3 py-1.5 rounded-full text-xs">
+      <Icon style={{ color: colors.accent }} />
+      <span style={{color: colors.muted}}>{label}</span>
+    </div>
+  );
+}

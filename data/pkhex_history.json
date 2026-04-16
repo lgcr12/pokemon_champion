@@ -1,0 +1,542 @@
+[
+  {
+    "id": "e912aac2b343490ebea738f01a5060ea",
+    "at": "2026-04-15T23:38:33",
+    "label": "微信图片_20260415224401_201_78.jpg",
+    "blocks_en": [
+      "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Dazzling Gleam\n-Calm Mind",
+      "Gengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Shadow Ball\n-Sludge Bomb\n-Perish Song\n-Protect",
+      "Kommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Clanging Scales\n-Aura Sphere\n-Draco Meteor",
+      "Incineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Fake Out\n-Throat Chop\n-Parting Shot\n-Protect",
+      "Politoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Perish Song\n-Weather Ball\n-Helping Hand",
+      "Whimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级花叶蒂 → Floette\n道具    : 花叶蒂进化石 → Floettite\n特性    : 花幕 → Flower Veil\n性格    : 胆小 → Timid\n努力值  : 22/-/3/17/1/23+（原始） -> 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\n招式    :\n  · 守住 → Protect\n  · 月亮之力 → Moonblast\n  · 魔法闪耀 → Dazzling Gleam\n  · 冥想 → Calm Mind",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级耿鬼 → Gengar\n道具    : 耿鬼进化石 → Gengarite\n特性    : 诅咒之躯 → Cursed Body\n性格    : 胆小 → Timid\n努力值  : 10/-/2/21/1/32+（原始） -> 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\n招式    :\n  · 暗影球 → Shadow Ball\n  · 污泥炸弹 → Sludge Bomb\n  · 终焉之歌 → Perish Song\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 杖尾鳞甲龙 → Kommo-o\n道具    : 龙之牙 → Dragon Fang\n特性    : 防尘 → Overcoat\n性格    : 内敛 → Modest\n努力值  : 17/-/1/20+/0/28（原始） -> 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\n招式    :\n  · 守住 → Protect\n  · 鳞片噪音 → Clanging Scales\n  · 波导弹 → Aura Sphere\n  · 流星群 → Draco Meteor",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 莲蒲果 → Chople Berry\n特性    : 威吓 → Intimidate\n性格    : 慎重 → Careful\n努力值  : 32/0/7/-/20+/7（原始） -> 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\n招式    :\n  · 击掌奇袭 → Fake Out\n  · 深渊突刺 → Throat Chop\n  · 抛下狠话 → Parting Shot\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 蚊香蛙皇 → Politoed\n道具    : 文柚果 → Sitrus Berry\n特性    : 降雨 → Drizzle\n性格    : 大胆 → Bold\n努力值  : 27/-/25+/8/1/5（原始） -> 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\n招式    :\n  · 守住 → Protect\n  · 终焉之歌 → Perish Song\n  · 气象球 → Weather Ball\n  · 帮助 → Helping Hand",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 风妖精 → Whimsicott\n道具    : 气势披带 → Focus Sash\n特性    : 恶作剧之心 → Prankster\n性格    : 内敛 → Modest\n努力值  : 2/-/0/32+/0/32（原始） -> 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · 守住 → Protect\n  · 月亮之力 → Moonblast\n  · 顺风 → Tailwind\n  · 假哭 → Fake Tears"
+    ],
+    "titles": [
+      "Floette",
+      "Gengar",
+      "Kommo-o",
+      "Incineroar",
+      "Politoed",
+      "Whimsicott"
+    ],
+    "full": "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Dazzling Gleam\n-Calm Mind\n\nGengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Shadow Ball\n-Sludge Bomb\n-Perish Song\n-Protect\n\nKommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Clanging Scales\n-Aura Sphere\n-Draco Meteor\n\nIncineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Fake Out\n-Throat Chop\n-Parting Shot\n-Protect\n\nPolitoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Perish Song\n-Weather Ball\n-Helping Hand\n\nWhimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears\n"
+  },
+  {
+    "id": "c71fcf56b4024b2480aa47745ef58fbc",
+    "at": "2026-04-15T23:30:23",
+    "label": "微信图片_20260415224401_201_78.jpg",
+    "blocks_en": [
+      "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Shadow Ball\n-Moonblast\n-Sludge Bomb",
+      "Gengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Dazzling Gleam\n-Calm Mind\n-Protect",
+      "Kommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Fake Out\n-Clanging Scales\n-Aura Sphere",
+      "Incineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Parting Shot\n-Draco Meteor\n-Protect",
+      "Politoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Fake Tears",
+      "Whimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Weather Ball\n-Tailwind\n-Helping Hand"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级花叶蒂 → Floette\n道具    : 花叶蒂进化石 → Floettite\n特性    : 花幕 → Flower Veil\n性格    : 胆小 → Timid\n努力值  : 22/-/3/17/1/23+（原始） -> 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\n招式    :\n  · 守住 → Protect\n  · 暗影球 → Shadow Ball\n  · 月亮之力 → Moonblast\n  · 污泥炸弹 → Sludge Bomb",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级耿鬼 → Gengar\n道具    : 耿鬼进化石 → Gengarite\n特性    : 诅咒之躯 → Cursed Body\n性格    : 胆小 → Timid\n努力值  : 10/-/2/21/1/32+（原始） -> 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\n招式    :\n  · 魔法闪耀 → Dazzling Gleam\n  · 冥想 → Calm Mind\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 杖尾鳞甲龙 → Kommo-o\n道具    : 龙之牙 → Dragon Fang\n特性    : 防尘 → Overcoat\n性格    : 内敛 → Modest\n努力值  : 17/-/1/20+/0/28（原始） -> 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\n招式    :\n  · 守住 → Protect\n  · 击掌奇袭 → Fake Out\n  · 鳞片噪音 → Clanging Scales\n  · 波导弹 → Aura Sphere",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 莲蒲果 → Chople Berry\n特性    : 威吓 → Intimidate\n性格    : 慎重 → Careful\n努力值  : 32/0/7/-/20+/7（原始） -> 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\n招式    :\n  · 抛下狠话 → Parting Shot\n  · 流星群 → Draco Meteor\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 蚊香蛙皇 → Politoed\n道具    : 文柚果 → Sitrus Berry\n特性    : 降雨 → Drizzle\n性格    : 大胆 → Bold\n努力值  : 27/-/25+/8/1/5（原始） -> 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\n招式    :\n  · 守住 → Protect\n  · 月亮之力 → Moonblast\n  · 假哭 → Fake Tears",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 风妖精 → Whimsicott\n道具    : 气势披带 → Focus Sash\n特性    : 恶作剧之心 → Prankster\n性格    : 内敛 → Modest\n努力值  : 2/-/0/32+/0/32（原始） -> 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · 气象球 → Weather Ball\n  · 顺风 → Tailwind\n  · 帮助 → Helping Hand"
+    ],
+    "titles": [
+      "Floette",
+      "Gengar",
+      "Kommo-o",
+      "Incineroar",
+      "Politoed",
+      "Whimsicott"
+    ],
+    "full": "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Shadow Ball\n-Moonblast\n-Sludge Bomb\n\nGengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Dazzling Gleam\n-Calm Mind\n-Protect\n\nKommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Fake Out\n-Clanging Scales\n-Aura Sphere\n\nIncineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Parting Shot\n-Draco Meteor\n-Protect\n\nPolitoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Fake Tears\n\nWhimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Weather Ball\n-Tailwind\n-Helping Hand\n"
+  },
+  {
+    "id": "f615a4a0f2684446807c42b7574ac1f2",
+    "at": "2026-04-15T23:26:37",
+    "label": "微信图片_20260415224401_201_78.jpg",
+    "blocks_en": [
+      "Floette @ Floettite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Gengar @ Gengarite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Shadow Ball\n-Moonblast\n-Sludge Bomb\n-Perish Body\n-Calm Mind",
+      "Kommo-o @ Dragon Fang\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Incineroar @ Chople Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Fake Out\n-Clanging Scales\n-Aura Sphere\n-Parting Shot\n-Draco Meteor",
+      "Politoed @ Sitrus Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Whimsicott @ Focus Sash\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Perish Body\n-Moonblast\n-Weather Ball\n-Tailwind\n-Helping Hand\n-Fake Tears"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级花叶蒂 → Floette\n道具    : 花叶蒂进化石 → Floettite\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级耿鬼 → Gengar\n道具    : 耿鬼进化石 → Gengarite\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 守住 → Protect\n  · 暗影球 → Shadow Ball\n  · 月亮之力 → Moonblast\n  · 污泥炸弹 → Sludge Bomb\n  · 灭亡之歌 → Perish Body\n  · 冥想 → Calm Mind",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 杖尾鳞甲龙 → Kommo-o\n道具    : 龙之牙 → Dragon Fang\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 莲蒲果 → Chople Berry\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 击掌奇袭 → Fake Out\n  · 鳞片噪音 → Clanging Scales\n  · 地狱突刺 → Unknown\n  · 波导弹 → Aura Sphere\n  · 抛下狠话 → Parting Shot\n  · 流星群 → Draco Meteor",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 蚊香蛙皇 → Politoed\n道具    : 文柚果 → Sitrus Berry\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 风妖精 → Whimsicott\n道具    : 气势披带 → Focus Sash\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 守住 → Protect\n  · 灭亡之歌 → Perish Body\n  · 月亮之力 → Moonblast\n  · 气象球 → Weather Ball\n  · 顺风 → Tailwind\n  · 帮助 → Helping Hand\n  · 假哭 → Fake Tears"
+    ],
+    "titles": [
+      "Floette",
+      "Gengar",
+      "Kommo-o",
+      "Incineroar",
+      "Politoed",
+      "Whimsicott"
+    ],
+    "full": "Floette @ Floettite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nGengar @ Gengarite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Shadow Ball\n-Moonblast\n-Sludge Bomb\n-Perish Body\n-Calm Mind\n\nKommo-o @ Dragon Fang\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nIncineroar @ Chople Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Fake Out\n-Clanging Scales\n-Aura Sphere\n-Parting Shot\n-Draco Meteor\n\nPolitoed @ Sitrus Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nWhimsicott @ Focus Sash\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Perish Body\n-Moonblast\n-Weather Ball\n-Tailwind\n-Helping Hand\n-Fake Tears\n"
+  },
+  {
+    "id": "4efdc35945e645eaa33a28f728bdccbf",
+    "at": "2026-04-15T23:08:48",
+    "label": "微信图片_20260415224401_201_78.jpg",
+    "blocks_en": [
+      "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Shadow Ball\n-Moonblast\n-Sludge Bomb",
+      "Gengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Dazzling Gleam\n-Calm Mind\n-Protect",
+      "Kommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Fake Out\n-Clanging Scales\n-Aura Sphere",
+      "Incineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Parting Shot\n-Draco Meteor\n-Protect",
+      "Politoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Fake Tears",
+      "Whimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Weather Ball\n-Tailwind\n-Helping Hand"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级花叶蒂 → Floette\n道具    : 花叶蒂进化石 → Floettite\n特性    : 花幕 → Flower Veil\n性格    : 胆小 → Timid\n努力值  : 10/-/2/21/1/32+（原始） -> 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\n招式    :\n  · 守住 → Protect\n  · 暗影球 → Shadow Ball\n  · 月亮之力 → Moonblast\n  · 污泥炸弹 → Sludge Bomb",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级耿鬼 → Gengar\n道具    : 耿鬼进化石 → Gengarite\n特性    : 诅咒之躯 → Cursed Body\n性格    : 胆小 → Timid\n努力值  : 22/-/3/17/1/23+（原始） -> 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\n招式    :\n  · 魔法闪耀 → Dazzling Gleam\n  · 冥想 → Calm Mind\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 杖尾鳞甲龙 → Kommo-o\n道具    : 龙之牙 → Dragon Fang\n特性    : 防尘 → Overcoat\n性格    : 内敛 → Modest\n努力值  : 17/-/1/20+/0/28（原始） -> 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\n招式    :\n  · 守住 → Protect\n  · 击掌奇袭 → Fake Out\n  · 鳞片噪音 → Clanging Scales\n  · 波导弹 → Aura Sphere",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 莲蒲果 → Chople Berry\n特性    : 威吓 → Intimidate\n性格    : 慎重 → Careful\n努力值  : 32/0/7/-/20+/7（原始） -> 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\n招式    :\n  · 抛下狠话 → Parting Shot\n  · 流星群 → Draco Meteor\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 蚊香蛙皇 → Politoed\n道具    : 文柚果 → Sitrus Berry\n特性    : 降雨 → Drizzle\n性格    : 大胆 → Bold\n努力值  : 27/-/25+/8/1/5（原始） -> 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\n招式    :\n  · 守住 → Protect\n  · 月亮之力 → Moonblast\n  · 假哭 → Fake Tears",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 风妖精 → Whimsicott\n道具    : 气势披带 → Focus Sash\n特性    : 恶作剧之心 → Prankster\n性格    : 内敛 → Modest\n努力值  : 2/-/0/32+/0/32（原始） -> 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · 气象球 → Weather Ball\n  · 顺风 → Tailwind\n  · 帮助 → Helping Hand"
+    ],
+    "titles": [
+      "Floette",
+      "Gengar",
+      "Kommo-o",
+      "Incineroar",
+      "Politoed",
+      "Whimsicott"
+    ],
+    "full": "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Shadow Ball\n-Moonblast\n-Sludge Bomb\n\nGengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Dazzling Gleam\n-Calm Mind\n-Protect\n\nKommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Fake Out\n-Clanging Scales\n-Aura Sphere\n\nIncineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Parting Shot\n-Draco Meteor\n-Protect\n\nPolitoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Fake Tears\n\nWhimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Weather Ball\n-Tailwind\n-Helping Hand\n"
+  },
+  {
+    "id": "6f2f36df984b47da965d4f4744b1f8d5",
+    "at": "2026-04-15T23:06:27",
+    "label": "微信图片_20260415224401_201_78.jpg",
+    "blocks_en": [
+      "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Shadow Ball\n-Moonblast\n-Sludge Bomb",
+      "Gengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Dazzling Gleam\n-Calm Mind\n-Protect",
+      "Kommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Fake Out\n-Clanging Scales\n-Aura Sphere",
+      "Incineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Parting Shot\n-Draco Meteor\n-Protect",
+      "Politoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Fake Tears",
+      "Whimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Weather Ball\n-Tailwind\n-Helping Hand"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级花叶蒂 → Floette\n道具    : 花叶蒂进化石 → Floettite\n特性    : 花幕 → Flower Veil\n性格    : 胆小 → Timid\n努力值  : 10/-/2/21/1/32+（原始） -> 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\n招式    :\n  · 守住 → Protect\n  · 暗影球 → Shadow Ball\n  · 月亮之力 → Moonblast\n  · 污泥炸弹 → Sludge Bomb",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级耿鬼 → Gengar\n道具    : 耿鬼进化石 → Gengarite\n特性    : 诅咒之躯 → Cursed Body\n性格    : 胆小 → Timid\n努力值  : 22/-/3/17/1/23+（原始） -> 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\n招式    :\n  · 魔法闪耀 → Dazzling Gleam\n  · 冥想 → Calm Mind\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 杖尾鳞甲龙 → Kommo-o\n道具    : 龙之牙 → Dragon Fang\n特性    : 防尘 → Overcoat\n性格    : 内敛 → Modest\n努力值  : 17/-/1/20+/0/28（原始） -> 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\n招式    :\n  · 守住 → Protect\n  · 击掌奇袭 → Fake Out\n  · 鳞片噪音 → Clanging Scales\n  · 波导弹 → Aura Sphere",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 莲蒲果 → Chople Berry\n特性    : 威吓 → Intimidate\n性格    : 慎重 → Careful\n努力值  : 32/0/7/-/20+/7（原始） -> 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\n招式    :\n  · 抛下狠话 → Parting Shot\n  · 流星群 → Draco Meteor\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 蚊香蛙皇 → Politoed\n道具    : 文柚果 → Sitrus Berry\n特性    : 降雨 → Drizzle\n性格    : 大胆 → Bold\n努力值  : 27/-/25+/8/1/5（原始） -> 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\n招式    :\n  · 守住 → Protect\n  · 月亮之力 → Moonblast\n  · 假哭 → Fake Tears",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 风妖精 → Whimsicott\n道具    : 气势披带 → Focus Sash\n特性    : 恶作剧之心 → Prankster\n性格    : 内敛 → Modest\n努力值  : 2/-/0/32+/0/32（原始） -> 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · 气象球 → Weather Ball\n  · 顺风 → Tailwind\n  · 帮助 → Helping Hand"
+    ],
+    "titles": [
+      "Floette",
+      "Gengar",
+      "Kommo-o",
+      "Incineroar",
+      "Politoed",
+      "Whimsicott"
+    ],
+    "full": "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Shadow Ball\n-Moonblast\n-Sludge Bomb\n\nGengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Dazzling Gleam\n-Calm Mind\n-Protect\n\nKommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Fake Out\n-Clanging Scales\n-Aura Sphere\n\nIncineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Parting Shot\n-Draco Meteor\n-Protect\n\nPolitoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Fake Tears\n\nWhimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Weather Ball\n-Tailwind\n-Helping Hand\n"
+  },
+  {
+    "id": "03853a5e4405455985a8418931d71421",
+    "at": "2026-04-15T23:02:02",
+    "label": "微信图片_20260415224401_201_78.jpg",
+    "blocks_en": [
+      "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Dazzling Gleam",
+      "Gengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Shadow Ball\n-Sludge Bomb\n-Calm Mind",
+      "Kommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Clanging Scales\n-Parting Shot",
+      "Incineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Fake Out\n-Aura Sphere\n-Draco Meteor",
+      "Politoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears",
+      "Whimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Weather Ball\n-Helping Hand"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级花叶蒂 → Floette\n道具    : 花叶蒂进化石 → Floettite\n特性    : 花幕 → Flower Veil\n性格    : 胆小 → Timid\n努力值  : 10/-/2/21/1/32+（原始） -> 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\n招式    :\n  · 守住 → Protect\n  · 月亮之力 → Moonblast\n  · 魔法闪耀 → Dazzling Gleam",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级耿鬼 → Gengar\n道具    : 耿鬼进化石 → Gengarite\n特性    : 诅咒之躯 → Cursed Body\n性格    : 胆小 → Timid\n努力值  : 22/-/3/17/1/23+（原始） -> 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\n招式    :\n  · 暗影球 → Shadow Ball\n  · 污泥炸弹 → Sludge Bomb\n  · 冥想 → Calm Mind",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 杖尾鳞甲龙 → Kommo-o\n道具    : 龙之牙 → Dragon Fang\n特性    : 防尘 → Overcoat\n性格    : 内敛 → Modest\n努力值  : 17/-/1/20+/0/28（原始） -> 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\n招式    :\n  · 守住 → Protect\n  · 鳞片噪音 → Clanging Scales\n  · 抛下狠话 → Parting Shot",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 莲蒲果 → Chople Berry\n特性    : 威吓 → Intimidate\n性格    : 慎重 → Careful\n努力值  : 32/0/7/-/20+/7（原始） -> 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\n招式    :\n  · 击掌奇袭 → Fake Out\n  · 波导弹 → Aura Sphere\n  · 流星群 → Draco Meteor",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 蚊香蛙皇 → Politoed\n道具    : 文柚果 → Sitrus Berry\n特性    : 降雨 → Drizzle\n性格    : 大胆 → Bold\n努力值  : 27/-/25+/8/1/5（原始） -> 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\n招式    :\n  · 守住 → Protect\n  · 月亮之力 → Moonblast\n  · 顺风 → Tailwind\n  · 假哭 → Fake Tears",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 风妖精 → Whimsicott\n道具    : 气势披带 → Focus Sash\n特性    : 恶作剧之心 → Prankster\n性格    : 内敛 → Modest\n努力值  : 2/-/0/32+/0/32（原始） -> 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · 守住 → Protect\n  · 气象球 → Weather Ball\n  · 帮助 → Helping Hand"
+    ],
+    "titles": [
+      "Floette",
+      "Gengar",
+      "Kommo-o",
+      "Incineroar",
+      "Politoed",
+      "Whimsicott"
+    ],
+    "full": "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Dazzling Gleam\n\nGengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Shadow Ball\n-Sludge Bomb\n-Calm Mind\n\nKommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Clanging Scales\n-Parting Shot\n\nIncineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Fake Out\n-Aura Sphere\n-Draco Meteor\n\nPolitoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears\n\nWhimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Weather Ball\n-Helping Hand\n"
+  },
+  {
+    "id": "d330726ab1e2467eb91d621a528e0daf",
+    "at": "2026-04-15T22:55:27",
+    "label": "微信图片_20260415224401_201_78.jpg",
+    "blocks_en": [
+      "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Dazzling Gleam",
+      "Gengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Shadow Ball\n-Sludge Bomb\n-Calm Mind",
+      "Kommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Clanging Scales\n-Parting Shot",
+      "Incineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Fake Out\n-Aura Sphere\n-Draco Meteor",
+      "Politoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears",
+      "Whimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Weather Ball\n-Helping Hand"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级花叶蒂 → Floette\n道具    : 花叶蒂进化石 → Floettite\n特性    : 花幕 → Flower Veil\n性格    : 胆小 → Timid\n努力值  : 10/-/2/21/1/32+（原始） -> 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\n招式    :\n  · 守住 → Protect\n  · 月亮之力 → Moonblast\n  · 魔法闪耀 → Dazzling Gleam",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级耿鬼 → Gengar\n道具    : 耿鬼进化石 → Gengarite\n特性    : 诅咒之躯 → Cursed Body\n性格    : 胆小 → Timid\n努力值  : 22/-/3/17/1/23+（原始） -> 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\n招式    :\n  · 暗影球 → Shadow Ball\n  · 污泥炸弹 → Sludge Bomb\n  · 冥想 → Calm Mind",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 杖尾鳞甲龙 → Kommo-o\n道具    : 龙之牙 → Dragon Fang\n特性    : 防尘 → Overcoat\n性格    : 内敛 → Modest\n努力值  : 17/-/1/20+/0/28（原始） -> 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\n招式    :\n  · 守住 → Protect\n  · 鳞片噪音 → Clanging Scales\n  · 抛下狠话 → Parting Shot",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 莲蒲果 → Chople Berry\n特性    : 威吓 → Intimidate\n性格    : 慎重 → Careful\n努力值  : 32/0/7/-/20+/7（原始） -> 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\n招式    :\n  · 击掌奇袭 → Fake Out\n  · 波导弹 → Aura Sphere\n  · 流星群 → Draco Meteor",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 蚊香蛙皇 → Politoed\n道具    : 文柚果 → Sitrus Berry\n特性    : 降雨 → Drizzle\n性格    : 大胆 → Bold\n努力值  : 27/-/25+/8/1/5（原始） -> 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\n招式    :\n  · 守住 → Protect\n  · 月亮之力 → Moonblast\n  · 顺风 → Tailwind\n  · 假哭 → Fake Tears",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 风妖精 → Whimsicott\n道具    : 气势披带 → Focus Sash\n特性    : 恶作剧之心 → Prankster\n性格    : 内敛 → Modest\n努力值  : 2/-/0/32+/0/32（原始） -> 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · 守住 → Protect\n  · 气象球 → Weather Ball\n  · 帮助 → Helping Hand"
+    ],
+    "titles": [
+      "Floette",
+      "Gengar",
+      "Kommo-o",
+      "Incineroar",
+      "Politoed",
+      "Whimsicott"
+    ],
+    "full": "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Dazzling Gleam\n\nGengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Shadow Ball\n-Sludge Bomb\n-Calm Mind\n\nKommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Clanging Scales\n-Parting Shot\n\nIncineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Fake Out\n-Aura Sphere\n-Draco Meteor\n\nPolitoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears\n\nWhimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Weather Ball\n-Helping Hand\n"
+  },
+  {
+    "id": "d7d2a7a0e67b41b5b653eec932e2b7f4",
+    "at": "2026-04-15T22:50:57",
+    "label": "微信图片_20260415224401_201_78.jpg",
+    "blocks_en": [
+      "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Dazzling Gleam",
+      "Gengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Shadow Ball\n-Sludge Bomb\n-Calm Mind",
+      "Kommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Clanging Scales\n-Parting Shot",
+      "Incineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Fake Out\n-Aura Sphere\n-Draco Meteor",
+      "Politoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears",
+      "Whimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Weather Ball\n-Helping Hand"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级花叶蒂 → Floette\n道具    : 花叶蒂进化石 → Floettite\n特性    : 花幕 → Flower Veil\n性格    : 胆小 → Timid\n努力值  : 10/-/2/21/1/32+（原始） -> 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\n招式    :\n  · Protect → Protect\n  · Moonblast → Moonblast\n  · Dazzling Gleam → Dazzling Gleam",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级耿鬼 → Gengar\n道具    : 耿鬼进化石 → Gengarite\n特性    : 诅咒之躯 → Cursed Body\n性格    : 胆小 → Timid\n努力值  : 22/-/3/17/1/23+（原始） -> 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\n招式    :\n  · Shadow Ball → Shadow Ball\n  · Sludge Bomb → Sludge Bomb\n  · Calm Mind → Calm Mind",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 杖尾鳞甲龙 → Kommo-o\n道具    : 龙之牙 → Dragon Fang\n特性    : 防尘 → Overcoat\n性格    : 内敛 → Modest\n努力值  : 17/-/1/20+/0/28（原始） -> 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\n招式    :\n  · Protect → Protect\n  · Clanging Scales → Clanging Scales\n  · Parting Shot → Parting Shot",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 莲蒲果 → Chople Berry\n特性    : 威吓 → Intimidate\n性格    : 慎重 → Careful\n努力值  : 32/0/7/-/20+/7（原始） -> 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\n招式    :\n  · Fake Out → Fake Out\n  · Aura Sphere → Aura Sphere\n  · Draco Meteor → Draco Meteor",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 蚊香蛙皇 → Politoed\n道具    : 文柚果 → Sitrus Berry\n特性    : 降雨 → Drizzle\n性格    : 大胆 → Bold\n努力值  : 27/-/25+/8/1/5（原始） -> 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\n招式    :\n  · Protect → Protect\n  · Moonblast → Moonblast\n  · Tailwind → Tailwind\n  · Fake Tears → Fake Tears",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 风妖精 → Whimsicott\n道具    : 气势披带 → Focus Sash\n特性    : 恶作剧之心 → Prankster\n性格    : 内敛 → Modest\n努力值  : 2/-/0/32+/0/32（原始） -> 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · Protect → Protect\n  · Weather Ball → Weather Ball\n  · Helping Hand → Helping Hand"
+    ],
+    "titles": [
+      "Floette",
+      "Gengar",
+      "Kommo-o",
+      "Incineroar",
+      "Politoed",
+      "Whimsicott"
+    ],
+    "full": "Floette\nLevel: 100\nShiny: Yes\nItem: Floettite\nBall: Timer Ball\nAbility: Flower Veil\n.Nature=Timid\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Dazzling Gleam\n\nGengar\nLevel: 100\nShiny: Yes\nItem: Gengarite\nBall: Timer Ball\nAbility: Cursed Body\n.Nature=Timid\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Shadow Ball\n-Sludge Bomb\n-Calm Mind\n\nKommo-o\nLevel: 100\nShiny: Yes\nItem: Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\n.Nature=Modest\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Clanging Scales\n-Parting Shot\n\nIncineroar\nLevel: 100\nShiny: Yes\nItem: Chople Berry\nBall: Timer Ball\nAbility: Intimidate\n.Nature=Careful\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Fake Out\n-Aura Sphere\n-Draco Meteor\n\nPolitoed\nLevel: 100\nShiny: Yes\nItem: Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\n.Nature=Bold\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears\n\nWhimsicott\nLevel: 100\nShiny: Yes\nItem: Focus Sash\nBall: Timer Ball\nAbility: Prankster\n.Nature=Modest\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\nLanguage: ChineseS\n-Protect\n-Weather Ball\n-Helping Hand\n"
+  },
+  {
+    "id": "ed3ce06966f341db84dd4346fb6b046f",
+    "at": "2026-04-15T22:44:46",
+    "label": "微信图片_20260415224401_201_78.jpg",
+    "blocks_en": [
+      "Floette @ Floettite\nBall: Timer Ball\nAbility: Flower Veil\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Moonblast\n-Dazzling Gleam",
+      "Gengar @ Gengarite\nBall: Timer Ball\nAbility: Cursed Body\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Shadow Ball\n-Sludge Bomb\n-Calm Mind",
+      "Kommo-o @ Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Clanging Scales\n-Parting Shot",
+      "Incineroar @ Chople Berry\nBall: Timer Ball\nAbility: Intimidate\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Fake Out\n-Aura Sphere\n-Draco Meteor",
+      "Politoed @ Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears",
+      "Whimsicott @ Focus Sash\nBall: Timer Ball\nAbility: Prankster\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Weather Ball\n-Helping Hand"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级花叶蒂 → Floette\n道具    : 花叶蒂进化石 → Floettite\n特性    : 花幕 → Flower Veil\n性格    : 胆小 → Timid\n努力值  : 10/-/2/21/1/32+（原始） -> 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\n招式    :\n  · Protect → Protect\n  · Moonblast → Moonblast\n  · Dazzling Gleam → Dazzling Gleam",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级耿鬼 → Gengar\n道具    : 耿鬼进化石 → Gengarite\n特性    : 诅咒之躯 → Cursed Body\n性格    : 胆小 → Timid\n努力值  : 22/-/3/17/1/23+（原始） -> 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\n招式    :\n  · Shadow Ball → Shadow Ball\n  · Sludge Bomb → Sludge Bomb\n  · Calm Mind → Calm Mind",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 杖尾鳞甲龙 → Kommo-o\n道具    : 龙之牙 → Dragon Fang\n特性    : 防尘 → Overcoat\n性格    : 内敛 → Modest\n努力值  : 17/-/1/20+/0/28（原始） -> 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\n招式    :\n  · Protect → Protect\n  · Clanging Scales → Clanging Scales\n  · Parting Shot → Parting Shot",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 莲蒲果 → Chople Berry\n特性    : 威吓 → Intimidate\n性格    : 慎重 → Careful\n努力值  : 32/0/7/-/20+/7（原始） -> 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\n招式    :\n  · Fake Out → Fake Out\n  · Aura Sphere → Aura Sphere\n  · Draco Meteor → Draco Meteor",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 蚊香蛙皇 → Politoed\n道具    : 文柚果 → Sitrus Berry\n特性    : 降雨 → Drizzle\n性格    : 大胆 → Bold\n努力值  : 27/-/25+/8/1/5（原始） -> 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\n招式    :\n  · Protect → Protect\n  · Moonblast → Moonblast\n  · Tailwind → Tailwind\n  · Fake Tears → Fake Tears",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 风妖精 → Whimsicott\n道具    : 气势披带 → Focus Sash\n特性    : 恶作剧之心 → Prankster\n性格    : 内敛 → Modest\n努力值  : 2/-/0/32+/0/32（原始） -> 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · Protect → Protect\n  · Weather Ball → Weather Ball\n  · Helping Hand → Helping Hand"
+    ],
+    "titles": [
+      "Floette",
+      "Gengar",
+      "Kommo-o",
+      "Incineroar",
+      "Politoed",
+      "Whimsicott"
+    ],
+    "full": "Floette @ Floettite\nBall: Timer Ball\nAbility: Flower Veil\nTimid Nature\nEVs: 10 HP / 0 Atk / 2 Def / 21 SpA / 1 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Moonblast\n-Dazzling Gleam\n\nGengar @ Gengarite\nBall: Timer Ball\nAbility: Cursed Body\nTimid Nature\nEVs: 22 HP / 0 Atk / 3 Def / 17 SpA / 1 SpD / 23 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Shadow Ball\n-Sludge Bomb\n-Calm Mind\n\nKommo-o @ Dragon Fang\nBall: Timer Ball\nAbility: Overcoat\nModest Nature\nEVs: 17 HP / 0 Atk / 1 Def / 20 SpA / 0 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Clanging Scales\n-Parting Shot\n\nIncineroar @ Chople Berry\nBall: Timer Ball\nAbility: Intimidate\nCareful Nature\nEVs: 32 HP / 0 Atk / 7 Def / 0 SpA / 20 SpD / 7 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Fake Out\n-Aura Sphere\n-Draco Meteor\n\nPolitoed @ Sitrus Berry\nBall: Timer Ball\nAbility: Drizzle\nBold Nature\nEVs: 27 HP / 0 Atk / 25 Def / 8 SpA / 1 SpD / 5 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Moonblast\n-Tailwind\n-Fake Tears\n\nWhimsicott @ Focus Sash\nBall: Timer Ball\nAbility: Prankster\nModest Nature\nEVs: 2 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Protect\n-Weather Ball\n-Helping Hand\n"
+  },
+  {
+    "id": "cd3809a02169402e9ee73fe12ad8dac2",
+    "at": "2026-04-15T21:52:46",
+    "label": "微信图片_20260415211448_200_78.jpg",
+    "blocks_en": [
+      "Garchomp @ Haban Berry\nBall: Timer Ball\nAbility: Rough Skin\nAdamant Nature\nEVs: 24 HP / 20 Atk / 0 Def / 0 SpA / 1 SpD / 21 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Earthquake\n-Rock Slide\n-Protect",
+      "Aerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nJolly Nature\nEVs: 2 HP / 32 Atk / 0 Def / 0 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Rock Slide\n-Dual Wingbeat\n-Tailwind\n-Protect",
+      "Venusaur @ Venusaurite\nBall: Timer Ball\nAbility: Chlorophyll\nModest Nature\nEVs: 20 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 13 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Sludge Bomb\n-Sleep Powder\n-Protect",
+      "Torkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nQuiet Nature\nEVs: 32 HP / 0 Atk / 0 Def / 32 SpA / 1 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Eruption\n-Heat Wave\n-Earth Power\n-Protect",
+      "Kingambit @ Chople Berry\nBall: Timer Ball\nAbility: Defiant\nAdamant Nature\nEVs: 32 HP / 16 Atk / 15 Def / 0 SpA / 0 SpD / 3 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Kowtow Cleave\n-Sucker Punch\n-Iron Head\n-Low Kick",
+      "Basculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nModest Nature\nEVs: 0 HP / 0 Atk / 2 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Shadow Ball\n-Muddy Water\n-Hydro Pump\n-Ice Beam"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 烈咬陆鲨 → Garchomp\n道具    : 莓榴果 → Haban Berry\n特性    : 粗糙皮肤 → Rough Skin\n性格    : 固执 → Adamant\n努力值  : 24 HP / 20 Atk / 0 Def / 0 SpA / 1 SpD / 21 Spe\n招式    :\n  · Dragon Claw → Dragon Claw\n  · Earthquake → Earthquake\n  · Rock Slide → Rock Slide\n  · Protect → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级化石翼龙 → Aerodactyl\n道具    : 化石翼龙进化石 → Aerodactylite\n特性    : 紧张感 → Unnerve\n性格    : 开朗 → Jolly\n努力值  : 2 HP / 32 Atk / 0 Def / 0 SpA / 0 SpD / 32 Spe\n招式    :\n  · Rock Slide → Rock Slide\n  · Dual Wingbeat → Dual Wingbeat\n  · Tailwind → Tailwind\n  · Protect → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级妙蛙花 → Venusaur\n道具    : 妙蛙花进化石 → Venusaurite\n特性    : 叶绿素 → Chlorophyll\n性格    : 内敛 → Modest\n努力值  : 20 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 13 Spe\n招式    :\n  · Energy Ball → Energy Ball\n  · Sludge Bomb → Sludge Bomb\n  · Sleep Powder → Sleep Powder\n  · Protect → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 煤炭龟 → Torkoal\n道具    : 文柚果 → Sitrus Berry\n特性    : 日照 → Drought\n性格    : 冷静 → Quiet\n努力值  : 32 HP / 0 Atk / 0 Def / 32 SpA / 1 SpD / 0 Spe\n招式    :\n  · Eruption → Eruption\n  · Heat Wave → Heat Wave\n  · Earth Power → Earth Power\n  · Protect → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 仆刀将军 → Kingambit\n道具    : 莲蒲果 → Chople Berry\n特性    : 不服输 → Defiant\n性格    : 固执 → Adamant\n努力值  : 32 HP / 16 Atk / 15 Def / 0 SpA / 0 SpD / 3 Spe\n招式    :\n  · Kowtow Cleave → Kowtow Cleave\n  · Sucker Punch → Sucker Punch\n  · Iron Head → Iron Head\n  · Low Kick → Low Kick",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 幽尾玄鱼-雌性 → Basculegion\n道具    : 讲究围巾 → Choice Scarf\n特性    : 适应力 → Adaptability\n性格    : 内敛 → Modest\n努力值  : 0 HP / 0 Atk / 2 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · Shadow Ball → Shadow Ball\n  · Muddy Water → Muddy Water\n  · Hydro Pump → Hydro Pump\n  · Ice Beam → Ice Beam"
+    ],
+    "titles": [
+      "Garchomp",
+      "Aerodactyl",
+      "Venusaur",
+      "Torkoal",
+      "Kingambit",
+      "Basculegion"
+    ],
+    "full": "Garchomp @ Haban Berry\nBall: Timer Ball\nAbility: Rough Skin\nAdamant Nature\nEVs: 24 HP / 20 Atk / 0 Def / 0 SpA / 1 SpD / 21 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Earthquake\n-Rock Slide\n-Protect\n\nAerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nJolly Nature\nEVs: 2 HP / 32 Atk / 0 Def / 0 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Rock Slide\n-Dual Wingbeat\n-Tailwind\n-Protect\n\nVenusaur @ Venusaurite\nBall: Timer Ball\nAbility: Chlorophyll\nModest Nature\nEVs: 20 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 13 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Sludge Bomb\n-Sleep Powder\n-Protect\n\nTorkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nQuiet Nature\nEVs: 32 HP / 0 Atk / 0 Def / 32 SpA / 1 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Eruption\n-Heat Wave\n-Earth Power\n-Protect\n\nKingambit @ Chople Berry\nBall: Timer Ball\nAbility: Defiant\nAdamant Nature\nEVs: 32 HP / 16 Atk / 15 Def / 0 SpA / 0 SpD / 3 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Kowtow Cleave\n-Sucker Punch\n-Iron Head\n-Low Kick\n\nBasculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nModest Nature\nEVs: 0 HP / 0 Atk / 2 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Shadow Ball\n-Muddy Water\n-Hydro Pump\n-Ice Beam\n"
+  },
+  {
+    "id": "80a021cb147040a0bdea54bfbf90ad9e",
+    "at": "2026-04-15T21:43:23",
+    "label": "微信图片_20260415211448_200_78.jpg",
+    "blocks_en": [
+      "Garchomp @ Haban Berry\nBall: Timer Ball\nAbility: Rough Skin\nAdamant Nature\nEVs: 24 HP / 20 Atk / 0 Def / 0 SpA / 1 SpD / 21 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Rock Slide\n-Earthquake\n-Dual Wingbeat",
+      "Aerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nJolly Nature\nEVs: 2 HP / 32 Atk / 0 Def / 0 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Rock Slide\n-Tailwind\n-Protect",
+      "Venusaur @ Venusaurite\nBall: Timer Ball\nAbility: Chlorophyll\nModest Nature\nEVs: 20 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 13 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Eruption\n-Sludge Bomb\n-Heat Wave",
+      "Torkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nQuiet Nature\nEVs: 32 HP / 0 Atk / 0 Def / 32 SpA / 1 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Sleep Powder\n-Earth Power\n-Protect",
+      "Kingambit @ Chople Berry\nBall: Timer Ball\nAbility: Defiant\nAdamant Nature\nEVs: 32 HP / 16 Atk / 15 Def / 0 SpA / 0 SpD / 3 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Kowtow Cleave\n-Shadow Ball\n-Sucker Punch\n-Muddy Water",
+      "Basculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nModest Nature\nEVs: 0 HP / 0 Atk / 2 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 烈咬陆鲨 → Garchomp\n道具    : 莓榴果 → Haban Berry\n特性    : 粗糙皮肤 → Rough Skin\n性格    : 固执 → Adamant\n努力值  : 24 HP / 20 Atk / 0 Def / 0 SpA / 1 SpD / 21 Spe\n招式    :\n  · Dragon Claw → Dragon Claw\n  · Rock Slide → Rock Slide\n  · Earthquake → Earthquake\n  · Dual Wingbeat → Dual Wingbeat",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级化石翼龙 → Aerodactyl\n道具    : 化石翼龙进化石 → Aerodactylite\n特性    : 紧张感 → Unnerve\n性格    : 开朗 → Jolly\n努力值  : 2 HP / 32 Atk / 0 Def / 0 SpA / 0 SpD / 32 Spe\n招式    :\n  · Rock Slide → Rock Slide\n  · Tailwind → Tailwind\n  · Protect → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级妙蛙花 → Venusaur\n道具    : 妙蛙花进化石 → Venusaurite\n特性    : 叶绿素 → Chlorophyll\n性格    : 内敛 → Modest\n努力值  : 20 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 13 Spe\n招式    :\n  · Energy Ball → Energy Ball\n  · Eruption → Eruption\n  · Sludge Bomb → Sludge Bomb\n  · Heat Wave → Heat Wave",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 煤炭龟 → Torkoal\n道具    : 文柚果 → Sitrus Berry\n特性    : 日照 → Drought\n性格    : 冷静 → Quiet\n努力值  : 32 HP / 0 Atk / 0 Def / 32 SpA / 1 SpD / 0 Spe\n招式    :\n  · Sleep Powder → Sleep Powder\n  · Earth Power → Earth Power\n  · Protect → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 仆刀将军 → Kingambit\n道具    : 莲蒲果 → Chople Berry\n特性    : 不服输 → Defiant\n性格    : 固执 → Adamant\n努力值  : 32 HP / 16 Atk / 15 Def / 0 SpA / 0 SpD / 3 Spe\n招式    :\n  · Kowtow Cleave → Kowtow Cleave\n  · Shadow Ball → Shadow Ball\n  · Sucker Punch → Sucker Punch\n  · Muddy Water → Muddy Water",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 幽尾玄鱼-雌性 → Basculegion\n道具    : 讲究围巾 → Choice Scarf\n特性    : 适应力 → Adaptability\n性格    : 内敛 → Modest\n努力值  : 0 HP / 0 Atk / 2 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · Iron Head → Iron Head\n  · Hydro Pump → Hydro Pump\n  · Low Kick → Low Kick\n  · Ice Beam → Ice Beam"
+    ],
+    "titles": [
+      "Garchomp",
+      "Aerodactyl",
+      "Venusaur",
+      "Torkoal",
+      "Kingambit",
+      "Basculegion"
+    ],
+    "full": "Garchomp @ Haban Berry\nBall: Timer Ball\nAbility: Rough Skin\nAdamant Nature\nEVs: 24 HP / 20 Atk / 0 Def / 0 SpA / 1 SpD / 21 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Rock Slide\n-Earthquake\n-Dual Wingbeat\n\nAerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nJolly Nature\nEVs: 2 HP / 32 Atk / 0 Def / 0 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Rock Slide\n-Tailwind\n-Protect\n\nVenusaur @ Venusaurite\nBall: Timer Ball\nAbility: Chlorophyll\nModest Nature\nEVs: 20 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 13 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Eruption\n-Sludge Bomb\n-Heat Wave\n\nTorkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nQuiet Nature\nEVs: 32 HP / 0 Atk / 0 Def / 32 SpA / 1 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Sleep Powder\n-Earth Power\n-Protect\n\nKingambit @ Chople Berry\nBall: Timer Ball\nAbility: Defiant\nAdamant Nature\nEVs: 32 HP / 16 Atk / 15 Def / 0 SpA / 0 SpD / 3 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Kowtow Cleave\n-Shadow Ball\n-Sucker Punch\n-Muddy Water\n\nBasculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nModest Nature\nEVs: 0 HP / 0 Atk / 2 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam\n"
+  },
+  {
+    "id": "e2dbdcef2a334413ab3a2afe4147d3a8",
+    "at": "2026-04-15T21:37:16",
+    "label": "微信图片_20260414225721_199_78.jpg",
+    "blocks_en": [
+      "Charizard-Mega-Y @ Charizardite Y\nBall: Timer Ball\nAbility: Blaze\nModest Nature\nEVs: 76 HP / 0 Atk / 100 Def / 164 SpA / 0 SpD / 172 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Charizardite Y\n-Tera Orb\n-Heat Wave\n-Sludge Bomb",
+      "Venusaur @ Focus Sash\nBall: Timer Ball\nAbility: Chlorophyll\nModest Nature\nEVs: 12 HP / 0 Atk / 4 Def / 236 SpA / 4 SpD / 252 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Weather Ball\n-Leaf Storm\n-Air Slash\n-Protect\n-Earth Power",
+      "Sneasler @ White Herb\nBall: Timer Ball\nAbility: Unburden\nAdamant Nature\nEVs: 12 HP / 236 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Tera Orb\n-Fake Out\n-Stomping Tantrum\n-Close Combat",
+      "Garchomp @ Roseli Berry\nBall: Timer Ball\nAbility: Rough Skin\nAdamant Nature\nEVs: 180 HP / 156 Atk / 0 Def / 0 SpA / 4 SpD / 172 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Dire Claw\n-Rock Slide\n-Protect",
+      "Zoroark-Hisui @ Choice Scarf\nBall: Timer Ball\nAbility: Illusion\nModest Nature\nEVs: 100 HP / 0 Atk / 12 Def / 252 SpA / 20 SpD / 124 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Tera Orb\n-Icy Wind\n-Fake Out\n-Hyper Voice",
+      "Incineroar @ Sitrus Berry\nBall: Timer Ball\nAbility: Intimidate\nNaughty Nature\nEVs: 252 HP / 0 Atk / 164 Def / 0 SpA / 60 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Flare Blitz\n-Shadow Ball\n-Darkest Lariat\n-Fake Tears\n-Parting Shot"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : Charizard-Mega-Y → Charizard-Mega-Y\n道具    : 喷火 → Charizardite Y\n特性    : 猛火 → Blaze\n性格    : 内敛 → Modest\n努力值  : 76 HP / 0 Atk / 100 Def / 164 SpA / 0 SpD / 172 Spe\n招式    :\n  · 龙进化石Y → Charizardite Y\n  · 太晶属性 → Tera Orb\n  · Heat Wave → Heat Wave\n  · Sludge Bomb → Sludge Bomb",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 妙蛙花 → Venusaur\n道具    : 气势披带 → Focus Sash\n特性    : 叶绿素 → Chlorophyll\n性格    : 内敛 → Modest\n努力值  : 12 HP / 0 Atk / 4 Def / 236 SpA / 4 SpD / 252 Spe\n招式    :\n  · Weather Ball → Weather Ball\n  · Leaf Storm → Leaf Storm\n  · Air Slash → Air Slash\n  · Protect → Protect\n  · Earth Power → Earth Power",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 大狂拉 → Sneasler\n道具    : 白色香草 → White Herb\n特性    : 轻装 → Unburden\n性格    : 固执 → Adamant\n努力值  : 12 HP / 236 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe\n招式    :\n  · 太晶属性 → Tera Orb\n  · Fake Out → Fake Out\n  · Stomping Tantrum → Stomping Tantrum\n  · Close Combat → Close Combat",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 烈咬陆鲨 → Garchomp\n道具    : 洛玫果 → Roseli Berry\n特性    : 粗糙皮肤 → Rough Skin\n性格    : 固执 → Adamant\n努力值  : 180 HP / 156 Atk / 0 Def / 0 SpA / 4 SpD / 172 Spe\n招式    :\n  · Dragon Claw → Dragon Claw\n  · Dire Claw → Dire Claw\n  · Rock Slide → Rock Slide\n  · Protect → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 索罗亚克-洗翠的样子 → Zoroark-Hisui\n道具    : 讲究 → Choice Scarf\n特性    : 幻觉 → Illusion\n性格    : 内敛 → Modest\n努力值  : 100 HP / 0 Atk / 12 Def / 252 SpA / 20 SpD / 124 Spe\n招式    :\n  · 太晶属性 → Tera Orb\n  · Icy Wind → Icy Wind\n  · Fake Out → Fake Out\n  · Hyper Voice → Hyper Voice",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 文柚果 → Sitrus Berry\n特性    : 威吓 → Intimidate\n性格    : 淘气 → Naughty\n努力值  : 252 HP / 0 Atk / 164 Def / 0 SpA / 60 SpD / 28 Spe\n招式    :\n  · Flare Blitz → Flare Blitz\n  · Shadow Ball → Shadow Ball\n  · Darkest Lariat → Darkest Lariat\n  · Fake Tears → Fake Tears\n  · Parting Shot → Parting Shot"
+    ],
+    "titles": [
+      "Charizard-Mega-Y",
+      "Venusaur",
+      "Sneasler",
+      "Garchomp",
+      "Zoroark-Hisui",
+      "Incineroar"
+    ],
+    "full": "Charizard-Mega-Y @ Charizardite Y\nBall: Timer Ball\nAbility: Blaze\nModest Nature\nEVs: 76 HP / 0 Atk / 100 Def / 164 SpA / 0 SpD / 172 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Charizardite Y\n-Tera Orb\n-Heat Wave\n-Sludge Bomb\n\nVenusaur @ Focus Sash\nBall: Timer Ball\nAbility: Chlorophyll\nModest Nature\nEVs: 12 HP / 0 Atk / 4 Def / 236 SpA / 4 SpD / 252 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Weather Ball\n-Leaf Storm\n-Air Slash\n-Protect\n-Earth Power\n\nSneasler @ White Herb\nBall: Timer Ball\nAbility: Unburden\nAdamant Nature\nEVs: 12 HP / 236 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Tera Orb\n-Fake Out\n-Stomping Tantrum\n-Close Combat\n\nGarchomp @ Roseli Berry\nBall: Timer Ball\nAbility: Rough Skin\nAdamant Nature\nEVs: 180 HP / 156 Atk / 0 Def / 0 SpA / 4 SpD / 172 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Dire Claw\n-Rock Slide\n-Protect\n\nZoroark-Hisui @ Choice Scarf\nBall: Timer Ball\nAbility: Illusion\nModest Nature\nEVs: 100 HP / 0 Atk / 12 Def / 252 SpA / 20 SpD / 124 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Tera Orb\n-Icy Wind\n-Fake Out\n-Hyper Voice\n\nIncineroar @ Sitrus Berry\nBall: Timer Ball\nAbility: Intimidate\nNaughty Nature\nEVs: 252 HP / 0 Atk / 164 Def / 0 SpA / 60 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Flare Blitz\n-Shadow Ball\n-Darkest Lariat\n-Fake Tears\n-Parting Shot\n"
+  },
+  {
+    "id": "6ebfab61c1e94a76bceb8ad6c8edfc2d",
+    "at": "2026-04-15T21:35:51",
+    "label": "微信图片_20260415211448_200_78.jpg",
+    "blocks_en": [
+      "Garchomp @ Haban Berry\nBall: Timer Ball\nAbility: Rough Skin\nAdamant Nature\nEVs: 24 HP / 20 Atk / 0 Def / 0 SpA / 1 SpD / 21 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-207/187/115/90/106/143\n-157/187/105/81/115/222\n-Atk↑ Spa↓\n-Spe↑ Spa↓\n-Dragon Claw\n-Rock Slide",
+      "Aerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nJolly Nature\nEVs: 2 HP / 32 Atk / 0 Def / 0 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Earthquake\n-Dual Wingbeat\n-Rock Slide\n-Tailwind\n-Protect",
+      "Venusaur @ Venusaurite\nBall: Timer Ball\nAbility: Chlorophyll\nModest Nature\nEVs: 20 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 13 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-175/108/143/191/140/113\n-177/105/160/150/91/36\n-Spa↑Atk↓\n-Spa↑ Spe↓\n-Energy Ball\n-Eruption",
+      "Torkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nQuiet Nature\nEVs: 32 HP / 0 Atk / 0 Def / 32 SpA / 1 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Sludge Bomb\n-Heat Wave\n-Sleep Powder\n-Earth Power\n-Protect",
+      "Kingambit @ Chople Berry\nBall: Timer Ball\nAbility: Defiant\nAdamant Nature\nEVs: 32 HP / 16 Atk / 15 Def / 0 SpA / 0 SpD / 3 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-207/188/155/72/105/73\n-195/100/87/167/95/130\n-Atk↑Spa↓\n-Spa↑Atk↓\n-Kowtow Cleave\n-Shadow Ball",
+      "Basculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nModest Nature\nEVs: 0 HP / 0 Atk / 2 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Sucker Punch\n-Muddy Water\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 烈咬陆鲨 → Garchomp\n道具    : 莓榴果 → Haban Berry\n特性    : 粗糙皮肤 → Rough Skin\n性格    : 固执 → Adamant\n努力值  : 24 HP / 20 Atk / 0 Def / 0 SpA / 1 SpD / 21 Spe\n招式    :\n  · 207/187/115/90/106/143 → 207/187/115/90/106/143\n  · 157/187/105/81/115/222 → 157/187/105/81/115/222\n  · Atk↑ Spa↓ → Atk↑ Spa↓\n  · Spe↑ Spa↓ → Spe↑ Spa↓\n  · Dragon Claw → Dragon Claw\n  · Rock Slide → Rock Slide",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级化石翼龙 → Aerodactyl\n道具    : 化石翼龙进化石 → Aerodactylite\n特性    : 紧张感 → Unnerve\n性格    : 开朗 → Jolly\n努力值  : 2 HP / 32 Atk / 0 Def / 0 SpA / 0 SpD / 32 Spe\n招式    :\n  · Earthquake → Earthquake\n  · Dual Wingbeat → Dual Wingbeat\n  · Rock Slide → Rock Slide\n  · Tailwind → Tailwind\n  · Protect → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级妙蛙花 → Venusaur\n道具    : 妙蛙花进化石 → Venusaurite\n特性    : 叶绿素 → Chlorophyll\n性格    : 内敛 → Modest\n努力值  : 20 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 13 Spe\n招式    :\n  · 175/108/143/191/140/113 → 175/108/143/191/140/113\n  · 177/105/160/150/91/36 → 177/105/160/150/91/36\n  · Spa↑Atk↓ → Spa↑Atk↓\n  · Spa↑ Spe↓ → Spa↑ Spe↓\n  · Energy Ball → Energy Ball\n  · Eruption → Eruption",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 煤炭龟 → Torkoal\n道具    : 文柚果 → Sitrus Berry\n特性    : 日照 → Drought\n性格    : 冷静 → Quiet\n努力值  : 32 HP / 0 Atk / 0 Def / 32 SpA / 1 SpD / 0 Spe\n招式    :\n  · Sludge Bomb → Sludge Bomb\n  · Heat Wave → Heat Wave\n  · Sleep Powder → Sleep Powder\n  · Earth Power → Earth Power\n  · Protect → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 仆刀将军 → Kingambit\n道具    : 莲蒲果 → Chople Berry\n特性    : 不服输 → Defiant\n性格    : 固执 → Adamant\n努力值  : 32 HP / 16 Atk / 15 Def / 0 SpA / 0 SpD / 3 Spe\n招式    :\n  · 207/188/155/72/105/73 → 207/188/155/72/105/73\n  · 195/100/87/167/95/130 → 195/100/87/167/95/130\n  · Atk↑Spa↓ → Atk↑Spa↓\n  · Spa↑Atk↓ → Spa↑Atk↓\n  · Kowtow Cleave → Kowtow Cleave\n  · Shadow Ball → Shadow Ball",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 幽尾玄鱼-雌性 → Basculegion\n道具    : 讲究围巾 → Choice Scarf\n特性    : 适应力 → Adaptability\n性格    : 内敛 → Modest\n努力值  : 0 HP / 0 Atk / 2 Def / 32 SpA / 0 SpD / 32 Spe\n招式    :\n  · Sucker Punch → Sucker Punch\n  · Muddy Water → Muddy Water\n  · Iron Head → Iron Head\n  · Hydro Pump → Hydro Pump\n  · Low Kick → Low Kick\n  · Ice Beam → Ice Beam"
+    ],
+    "titles": [
+      "Garchomp",
+      "Aerodactyl",
+      "Venusaur",
+      "Torkoal",
+      "Kingambit",
+      "Basculegion"
+    ],
+    "full": "Garchomp @ Haban Berry\nBall: Timer Ball\nAbility: Rough Skin\nAdamant Nature\nEVs: 24 HP / 20 Atk / 0 Def / 0 SpA / 1 SpD / 21 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-207/187/115/90/106/143\n-157/187/105/81/115/222\n-Atk↑ Spa↓\n-Spe↑ Spa↓\n-Dragon Claw\n-Rock Slide\n\nAerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nJolly Nature\nEVs: 2 HP / 32 Atk / 0 Def / 0 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Earthquake\n-Dual Wingbeat\n-Rock Slide\n-Tailwind\n-Protect\n\nVenusaur @ Venusaurite\nBall: Timer Ball\nAbility: Chlorophyll\nModest Nature\nEVs: 20 HP / 0 Atk / 0 Def / 32 SpA / 0 SpD / 13 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-175/108/143/191/140/113\n-177/105/160/150/91/36\n-Spa↑Atk↓\n-Spa↑ Spe↓\n-Energy Ball\n-Eruption\n\nTorkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nQuiet Nature\nEVs: 32 HP / 0 Atk / 0 Def / 32 SpA / 1 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Sludge Bomb\n-Heat Wave\n-Sleep Powder\n-Earth Power\n-Protect\n\nKingambit @ Chople Berry\nBall: Timer Ball\nAbility: Defiant\nAdamant Nature\nEVs: 32 HP / 16 Atk / 15 Def / 0 SpA / 0 SpD / 3 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-207/188/155/72/105/73\n-195/100/87/167/95/130\n-Atk↑Spa↓\n-Spa↑Atk↓\n-Kowtow Cleave\n-Shadow Ball\n\nBasculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nModest Nature\nEVs: 0 HP / 0 Atk / 2 Def / 32 SpA / 0 SpD / 32 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Sucker Punch\n-Muddy Water\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam\n"
+  },
+  {
+    "id": "e4093bc4f98f4110b140fbf5ef6cd7de",
+    "at": "2026-04-15T21:30:22",
+    "label": "微信图片_20260415211448_200_78.jpg",
+    "blocks_en": [
+      "Garchomp @ Haban Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Aerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Rock Slide\n-Earthquake\n-Dual Wingbeat\n-Tailwind\n-Protect",
+      "Venusaur @ Venusaurite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Torkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Eruption\n-Sludge Bomb\n-Heat Wave\n-Sleep Powder\n-Earth Power\n-Protect",
+      "Kingambit @ Chople Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Basculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Kowtow Cleave\n-Shadow Ball\n-Sucker Punch\n-Muddy Water\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 烈咬陆鲨 → Garchomp\n道具    : 莓榴果 → Haban Berry\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级化石翼龙 → Aerodactyl\n道具    : 化石翼龙进化石 → Aerodactylite\n特性    : Unnerve → Unnerve\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 龙爪 → Dragon Claw\n  · 岩崩 → Rock Slide\n  · 地震 → Earthquake\n  · 双翼 → Dual Wingbeat\n  · 顺风 → Tailwind\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级妙蛙花 → Venusaur\n道具    : 妙蛙花进化石 → Venusaurite\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 煤炭龟 → Torkoal\n道具    : 文柚果 → Sitrus Berry\n特性    : Drought → Drought\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 能量球 → Energy Ball\n  · 喷火 → Eruption\n  · 污泥炸弹 → Sludge Bomb\n  · 热风 → Heat Wave\n  · Sleep Powder → Sleep Powder\n  · 大地之力 → Earth Power\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 仆刀将军 → Kingambit\n道具    : 莲蒲果 → Chople Berry\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 幽尾玄鱼-雌性 → Basculegion\n道具    : 讲究围巾 → Choice Scarf\n特性    : Adaptability → Adaptability\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · Kowtow Cleave → Kowtow Cleave\n  · 暗影球 → Shadow Ball\n  · 突袭 → Sucker Punch\n  · 浊流 → Muddy Water\n  · 铁头 → Iron Head\n  · 水炮 → Hydro Pump\n  · 踢倒 → Low Kick\n  · 冰冻光束 → Ice Beam"
+    ],
+    "titles": [
+      "Garchomp",
+      "Aerodactyl",
+      "Venusaur",
+      "Torkoal",
+      "Kingambit",
+      "Basculegion"
+    ],
+    "full": "Garchomp @ Haban Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nAerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Rock Slide\n-Earthquake\n-Dual Wingbeat\n-Tailwind\n-Protect\n\nVenusaur @ Venusaurite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nTorkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Eruption\n-Sludge Bomb\n-Heat Wave\n-Sleep Powder\n-Earth Power\n-Protect\n\nKingambit @ Chople Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nBasculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Kowtow Cleave\n-Shadow Ball\n-Sucker Punch\n-Muddy Water\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam\n"
+  },
+  {
+    "id": "b630871b13d14298b6fbc64c28585254",
+    "at": "2026-04-15T21:26:36",
+    "label": "微信图片_20260415211448_200_78.jpg",
+    "blocks_en": [
+      "Garchomp @ Haban Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Aerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Rock Slide\n-Earthquake\n-Dual Wingbeat\n-Tailwind\n-Protect",
+      "Venusaur @ Venusaurite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Torkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Eruption\n-Sludge Bomb\n-Heat Wave\n-Sleep Powder\n-Earth Power\n-Protect",
+      "Kingambit @ Chople Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Basculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Kowtow Cleave\n-Shadow Ball\n-Sucker Punch\n-Muddy Water\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 烈咬陆鲨 → Garchomp\n道具    : 莓榴果 → Haban Berry\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级化石翼龙 → Aerodactyl\n道具    : 化石翼龙进化石 → Aerodactylite\n特性    : Unnerve → Unnerve\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 龙爪 → Dragon Claw\n  · 岩崩 → Rock Slide\n  · 地震 → Earthquake\n  · 双翼 → Dual Wingbeat\n  · 顺风 → Tailwind\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级妙蛙花 → Venusaur\n道具    : 妙蛙花进化石 → Venusaurite\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 煤炭龟 → Torkoal\n道具    : 文柚果 → Sitrus Berry\n特性    : Drought → Drought\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 能量球 → Energy Ball\n  · 喷火 → Eruption\n  · 污泥炸弹 → Sludge Bomb\n  · 热风 → Heat Wave\n  · Sleep Powder → Sleep Powder\n  · 大地之力 → Earth Power\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 仆刀将军 → Kingambit\n道具    : 莲蒲果 → Chople Berry\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 幽尾玄鱼-雌性 → Basculegion\n道具    : 讲究围巾 → Choice Scarf\n特性    : Adaptability → Adaptability\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · Kowtow Cleave → Kowtow Cleave\n  · 暗影球 → Shadow Ball\n  · 突袭 → Sucker Punch\n  · 浊流 → Muddy Water\n  · 铁头 → Iron Head\n  · 水炮 → Hydro Pump\n  · 踢倒 → Low Kick\n  · 冰冻光束 → Ice Beam"
+    ],
+    "titles": [
+      "Garchomp",
+      "Aerodactyl",
+      "Venusaur",
+      "Torkoal",
+      "Kingambit",
+      "Basculegion"
+    ],
+    "full": "Garchomp @ Haban Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nAerodactyl @ Aerodactylite\nBall: Timer Ball\nAbility: Unnerve\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Rock Slide\n-Earthquake\n-Dual Wingbeat\n-Tailwind\n-Protect\n\nVenusaur @ Venusaurite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nTorkoal @ Sitrus Berry\nBall: Timer Ball\nAbility: Drought\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Eruption\n-Sludge Bomb\n-Heat Wave\n-Sleep Powder\n-Earth Power\n-Protect\n\nKingambit @ Chople Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nBasculegion @ Choice Scarf\nBall: Timer Ball\nAbility: Adaptability\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Kowtow Cleave\n-Shadow Ball\n-Sucker Punch\n-Muddy Water\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam\n"
+  },
+  {
+    "id": "a511b7b7f33e4214b7414e2d3e670a7f",
+    "at": "2026-04-15T21:22:49",
+    "label": "微信图片_20260415211448_200_78.jpg",
+    "blocks_en": [
+      "Garchomp @ Haban Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Aerodactyl @ Aerodactylite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Rock Slide\n-Earthquake\n-Dual Wingbeat\n-Tailwind\n-Protect",
+      "Venusaur @ Venusaurite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Torkoal @ Sitrus Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Eruption\n-Sludge Bomb\n-Heat Wave\n-Sleep Powder\n-Earth Power\n-Protect",
+      "Kingambit @ Chople Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Basculegion @ Choice Scarf\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Shadow Ball\n-Sucker Punch\n-Muddy Water\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 烈咬陆鲨 → Garchomp\n道具    : 莓榴果 → Haban Berry\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级化石翼龙 → Aerodactyl\n道具    : 化石翼龙进化石 → Aerodactylite\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 龙爪 → Dragon Claw\n  · 岩崩 → Rock Slide\n  · 地震 → Earthquake\n  · 双翼 → Dual Wingbeat\n  · 顺风 → Tailwind\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 超级妙蛙花 → Venusaur\n道具    : 妙蛙花进化石 → Venusaurite\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 煤炭龟 → Torkoal\n道具    : 文柚果 → Sitrus Berry\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 能量球 → Energy Ball\n  · 喷火 → Eruption\n  · 污泥炸弹 → Sludge Bomb\n  · 热风 → Heat Wave\n  · 一催眠粉 → Sleep Powder\n  · 大地之力 → Earth Power\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 仆刀将军 → Kingambit\n道具    : 莲蒲果 → Chople Berry\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 幽尾玄鱼-雌性 → Basculegion\n道具    : 讲究围巾 → Choice Scarf\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  · 暗影球 → Shadow Ball\n  · 突袭 → Sucker Punch\n  · 浊流 → Muddy Water\n  · 铁头 → Iron Head\n  · 水炮 → Hydro Pump\n  · 踢倒 → Low Kick\n  · 冰冻光束 → Ice Beam"
+    ],
+    "titles": [
+      "Garchomp",
+      "Aerodactyl",
+      "Venusaur",
+      "Torkoal",
+      "Kingambit",
+      "Basculegion"
+    ],
+    "full": "Garchomp @ Haban Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nAerodactyl @ Aerodactylite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Dragon Claw\n-Rock Slide\n-Earthquake\n-Dual Wingbeat\n-Tailwind\n-Protect\n\nVenusaur @ Venusaurite\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nTorkoal @ Sitrus Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Energy Ball\n-Eruption\n-Sludge Bomb\n-Heat Wave\n-Sleep Powder\n-Earth Power\n-Protect\n\nKingambit @ Chople Berry\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nBasculegion @ Choice Scarf\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Shadow Ball\n-Sucker Punch\n-Muddy Water\n-Iron Head\n-Hydro Pump\n-Low Kick\n-Ice Beam\n"
+  },
+  {
+    "id": "97405e9d541e4b91965df5fb66d91a06",
+    "at": "2026-04-15T21:12:19",
+    "label": "微信图片_20260414225721_199_78.jpg",
+    "blocks_en": [
+      "Charizard-Mega-Y @ Charizardite Y\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Venusaur @ Focus Sash\nBall: Timer Ball\nEVs: 12 HP / 0 Atk / 4 Def / 236 SpA / 4 SpD / 252 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Heat Wave\n-Sludge Bomb\n-Weather Ball\n-Leaf Storm\n-Air Slash\n-Protect\n-Earth Power",
+      "Sneasler @ White Herb\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Garchomp @ Roseli Berry\nBall: Timer Ball\nEVs: 180 HP / 156 Atk / 0 Def / 0 SpA / 4 SpD / 172 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Stomping Tantrum\n-Close Combat\n-Dragon Claw\n-Dire Claw\n-Rock Slide\n-Protect",
+      "Zoroark-Hisui @ Choice Scarf\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Incineroar @ Sitrus Berry\nBall: Timer Ball\nEVs: 252 HP / 0 Atk / 164 Def / 0 SpA / 60 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Icy Wind\n-Fake Out\n-Hyper Voice\n-Flare Blitz\n-Shadow Ball\n-Darkest Lariat\n-Fake Tears\n-Parting Shot"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : Charizard-Mega-Y → Charizard-Mega-Y\n道具    : 喷火 → Charizardite Y\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 妙蛙花 → Venusaur\n道具    : 气势披带 → Focus Sash\n特性    : —\n性格    : — → —\n努力值  : 12 HP / 0 Atk / 4 Def / 236 SpA / 4 SpD / 252 Spe\n招式    :\n  · 热风 → Heat Wave\n  · 污泥炸弹 → Sludge Bomb\n  · 气象球 → Weather Ball\n  · 飞叶风暴 → Leaf Storm\n  · 空气斩 → Air Slash\n  · 守住 → Protect\n  · 大地之力 → Earth Power",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 大狂拉 → Sneasler\n道具    : 白色香草 → White Herb\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 烈咬陆鲨 → Garchomp\n道具    : 洛玫果 → Roseli Berry\n特性    : —\n性格    : — → —\n努力值  : 180 HP / 156 Atk / 0 Def / 0 SpA / 4 SpD / 172 Spe\n招式    :\n  · 踩脚 → Stomping Tantrum\n  · 近身战 → Close Combat\n  · 龙爪 → Dragon Claw\n  · 克命爪 → Dire Claw\n  · 岩崩 → Rock Slide\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 索罗亚克-洗翠的样子 → Zoroark-Hisui\n道具    : 讲究 → Choice Scarf\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 文柚果 → Sitrus Berry\n特性    : —\n性格    : — → —\n努力值  : 252 HP / 0 Atk / 164 Def / 0 SpA / 60 SpD / 28 Spe\n招式    :\n  · 冰冻之风 → Icy Wind\n  · 击掌奇袭 → Fake Out\n  · 巨声 → Hyper Voice\n  · 一闪焰冲锋 → Flare Blitz\n  · 暗影球 → Shadow Ball\n  · DD金勾臂 → Darkest Lariat\n  · 假哭 → Fake Tears\n  · 抛下狠话 → Parting Shot"
+    ],
+    "titles": [
+      "Charizard-Mega-Y",
+      "Venusaur",
+      "Sneasler",
+      "Garchomp",
+      "Zoroark-Hisui",
+      "Incineroar"
+    ],
+    "full": "Charizard-Mega-Y @ Charizardite Y\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nVenusaur @ Focus Sash\nBall: Timer Ball\nEVs: 12 HP / 0 Atk / 4 Def / 236 SpA / 4 SpD / 252 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Heat Wave\n-Sludge Bomb\n-Weather Ball\n-Leaf Storm\n-Air Slash\n-Protect\n-Earth Power\n\nSneasler @ White Herb\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nGarchomp @ Roseli Berry\nBall: Timer Ball\nEVs: 180 HP / 156 Atk / 0 Def / 0 SpA / 4 SpD / 172 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Stomping Tantrum\n-Close Combat\n-Dragon Claw\n-Dire Claw\n-Rock Slide\n-Protect\n\nZoroark-Hisui @ Choice Scarf\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nIncineroar @ Sitrus Berry\nBall: Timer Ball\nEVs: 252 HP / 0 Atk / 164 Def / 0 SpA / 60 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Icy Wind\n-Fake Out\n-Hyper Voice\n-Flare Blitz\n-Shadow Ball\n-Darkest Lariat\n-Fake Tears\n-Parting Shot\n"
+  },
+  {
+    "id": "b714db739f2e44cba52c9378329ba1f0",
+    "at": "2026-04-15T21:10:40",
+    "label": "微信图片_20260414225721_199_78.jpg",
+    "blocks_en": [
+      "Charizard-Mega-Y @ Charizardite Y\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Venusaur @ Focus Sash\nBall: Timer Ball\nEVs: 12 HP / 0 Atk / 4 Def / 236 SpA / 4 SpD / 252 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Heat Wave\n-Sludge Bomb\n-Weather Ball\n-Leaf Storm\n-Air Slash\n-Protect\n-Earth Power",
+      "Sneasler @ White Herb\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Garchomp @ Roseli Berry\nBall: Timer Ball\nEVs: 180 HP / 156 Atk / 0 Def / 0 SpA / 4 SpD / 172 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Stomping Tantrum\n-Close Combat\n-Dragon Claw\n-Dire Claw\n-Rock Slide\n-Protect",
+      "Zoroark-Hisui @ Choice Scarf\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll",
+      "Incineroar @ Sitrus Berry\nBall: Timer Ball\nEVs: 252 HP / 0 Atk / 164 Def / 0 SpA / 60 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Icy Wind\n-Fake Out\n-Hyper Voice\n-Flare Blitz\n-Shadow Ball\n-Darkest Lariat\n-Fake Tears\n-Parting Shot"
+    ],
+    "blocks_zh": [
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : Charizard-Mega-Y → Charizard-Mega-Y\n道具    : 喷火 → Charizardite Y\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 妙蛙花 → Venusaur\n道具    : 气势披带 → Focus Sash\n特性    : —\n性格    : — → —\n努力值  : 12 HP / 0 Atk / 4 Def / 236 SpA / 4 SpD / 252 Spe\n招式    :\n  · 热风 → Heat Wave\n  · 污泥炸弹 → Sludge Bomb\n  · 气象球 → Weather Ball\n  · 飞叶风暴 → Leaf Storm\n  · 空气斩 → Air Slash\n  · 守住 → Protect\n  · 大地之力 → Earth Power",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 大狂拉 → Sneasler\n道具    : 白色香草 → White Herb\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 烈咬陆鲨 → Garchomp\n道具    : 洛玫果 → Roseli Berry\n特性    : —\n性格    : — → —\n努力值  : 180 HP / 156 Atk / 0 Def / 0 SpA / 4 SpD / 172 Spe\n招式    :\n  · 踩脚 → Stomping Tantrum\n  · 近身战 → Close Combat\n  · 龙爪 → Dragon Claw\n  · 克命爪 → Dire Claw\n  · 岩崩 → Rock Slide\n  · 守住 → Protect",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 索罗亚克-洗翠的样子 → Zoroark-Hisui\n道具    : 讲究 → Choice Scarf\n特性    : —\n性格    : — → —\n努力值  : 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\n招式    :\n  （无）",
+      "── 对照（原文 / 中文 → PKHeX 英文）──\n宝可梦 : 炽焰咆哮虎 → Incineroar\n道具    : 文柚果 → Sitrus Berry\n特性    : —\n性格    : — → —\n努力值  : 252 HP / 0 Atk / 164 Def / 0 SpA / 60 SpD / 28 Spe\n招式    :\n  · 冰冻之风 → Icy Wind\n  · 击掌奇袭 → Fake Out\n  · 巨声 → Hyper Voice\n  · 一闪焰冲锋 → Flare Blitz\n  · 暗影球 → Shadow Ball\n  · DD金勾臂 → Darkest Lariat\n  · 假哭 → Fake Tears\n  · 抛下狠话 → Parting Shot"
+    ],
+    "titles": [
+      "Charizard-Mega-Y",
+      "Venusaur",
+      "Sneasler",
+      "Garchomp",
+      "Zoroark-Hisui",
+      "Incineroar"
+    ],
+    "full": "Charizard-Mega-Y @ Charizardite Y\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nVenusaur @ Focus Sash\nBall: Timer Ball\nEVs: 12 HP / 0 Atk / 4 Def / 236 SpA / 4 SpD / 252 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Heat Wave\n-Sludge Bomb\n-Weather Ball\n-Leaf Storm\n-Air Slash\n-Protect\n-Earth Power\n\nSneasler @ White Herb\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nGarchomp @ Roseli Berry\nBall: Timer Ball\nEVs: 180 HP / 156 Atk / 0 Def / 0 SpA / 4 SpD / 172 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Stomping Tantrum\n-Close Combat\n-Dragon Claw\n-Dire Claw\n-Rock Slide\n-Protect\n\nZoroark-Hisui @ Choice Scarf\nBall: Timer Ball\nEVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n\nIncineroar @ Sitrus Berry\nBall: Timer Ball\nEVs: 252 HP / 0 Atk / 164 Def / 0 SpA / 60 SpD / 28 Spe\nIVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe\n.RelearnMoves=$suggestAll\n.PlusMoves=$suggestAll\n-Icy Wind\n-Fake Out\n-Hyper Voice\n-Flare Blitz\n-Shadow Ball\n-Darkest Lariat\n-Fake Tears\n-Parting Shot\n"
+  }
+]

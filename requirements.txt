@@ -1,0 +1,4 @@
+paddleocr>=2.8.0
+paddlepaddle>=2.6.0
+streamlit>=1.35.0
+rapidocr-onnxruntime>=1.4.4
