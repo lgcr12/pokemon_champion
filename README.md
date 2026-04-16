@@ -1,5 +1,9 @@
 # Pokemon Champion
 
+## 示例截图（VGC Stats）
+
+![VGC Stats 示例截图](docs/images/vgc-stats-example.jpg)
+
 基于 OCR 的宝可梦队伍解析与导出工具。支持截图识别、文本解析、字段校对、冲突检测，以及 PKHeX / Showdown / JSON 多格式导出。
 
 ## 功能说明
@@ -101,3 +105,4 @@ python main.py --text "ocr.txt" --output "pkhex_sets.txt"
 - OCR 质量强依赖截图清晰度与字段完整度。
 - 若出现串字段，建议使用“字段锁定 + 纠错编辑器”流程修正。
 - 若端口被占用，可改端口启动：`streamlit run app.py --server.port 8502`
+- 当前仅支持 **VGC Stats** 截图样式（如队伍六宫格统计图）；其他版式暂不保证识别效果。
